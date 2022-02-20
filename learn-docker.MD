@@ -28,7 +28,7 @@ Docker是一个使用Go语言开发的开源的应用容器引擎，让开发者
 1. 进入[docker官网](https://www.docker.com)
 2.  
 
-![image](../images/downdocker.png)
+![image](/images/downdocker.png)
 
 > 备注：a.window系统需要Windows10 Pro，window7版本支持不了 <br/>
 > b.macOS系统也可以采用以下命令进行安装
@@ -47,7 +47,7 @@ docker run -p 80:80 -d --name learn-docker learn-docker
 
 ## 架构
 
-![image](../images/dockerArch.png)
+![image](/images/dockerArch.png)
 
 ## 常用命令
 
